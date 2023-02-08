@@ -1,7 +1,9 @@
 # Hey, ya'll. My name is Cam.
 ## Software Engineer with a current focus on Web Development
-### This one is a test.
+### I am a developr with a passion for anything tech related and an affinity for anything played on the tabletop. 
 
+- 🌎 Currently based in Raleigh, NC
+- ✉️ Contact me at camestep8517@gmail.com
 
 
 <!--
