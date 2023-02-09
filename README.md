@@ -5,7 +5,7 @@
 
 - 🌎 Currently based in Raleigh, NC
 - ✉️ Contact me at camestep8517@gmail.com
-- 👨🏼‍💻 Currently working on https://github.com/Thunderpig851/workingTitle
+- 👨🏼‍💻 Currently working on https://github.com/Thunderpig851/MTGDeckBuilder
 - 🧙🏼‍♂️Current D&D character: Varaza Level 11 Chronurgy Wizard
 
 <h2 align="left">Languages and Tools:</h2>
